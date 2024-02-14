@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 1 abdiel9048 abdiel9048 338 Feb 14 14:11 .
+drwxr-xr-x 1 abdiel9048 abdiel9048  96 Feb 13 10:27 ..
+-rwxr--r-- 1 abdiel9048 abdiel9048  35 Feb 13 11:37 0-hello_world
+-rwxr--r-- 1 abdiel9048 abdiel9048  30 Feb 13 14:02 1-confused_smiley
+-rwxr-xr-x 1 abdiel9048 abdiel9048  28 Feb 13 14:08 2-hellofile
+-rwxr-xr-x 1 abdiel9048 abdiel9048  39 Feb 13 14:28 3-twofiles
+-rwxr-xr-x 1 abdiel9048 abdiel9048  35 Feb 13 14:34 4-lastlines
+-rwxr-xr-x 1 abdiel9048 abdiel9048  35 Feb 14 10:11 5-firstlines
+-rwxr-xr-x 1 abdiel9048 abdiel9048  42 Feb 14 10:58 6-third_line
+-rwxr-xr-x 1 abdiel9048 abdiel9048  98 Feb 14 13:49 7-file
+-rwxr-xr-x 1 abdiel9048 abdiel9048  36 Feb 14 14:11 8-cwd_state
+-rw-r--r-- 1 abdiel9048 abdiel9048  12 Feb 14 13:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 abdiel9048 abdiel9048 744 Feb 14 10:51 iacta
+-rw-r--r-- 1 abdiel9048 abdiel9048   0 Feb 14 14:14 ls_cwd_content
+-rw-r--r-- 1 abdiel9048 abdiel9048   4 Feb 13 10:38 README.md
